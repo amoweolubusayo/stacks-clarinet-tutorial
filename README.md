@@ -2,7 +2,7 @@
 
 # A quick glance at Stacks
 
-If you are interested in building on the blockchain, you might want to check out Stacks techbology! Briefly, this guide would take you through on the technology and it's uniqueness! Great! Let's dive in.
+If you are interested in building on the blockchain, you might want to check out Stacks techbology! Briefly, this guide would take you through on what the technology is about and it's uniqueness! Great! Let's dive in.
 
 Stacks 2.0 is a layer-1 blockchain that allows developers build dApps (decentralized apps) on the Bitcoin network using smart contracts. Because of how secure and dependable the Bitcoin is, the Stacks team decided to utilize the network by natively integrating it with smart contracts and applications.
 
